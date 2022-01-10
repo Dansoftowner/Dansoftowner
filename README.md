@@ -12,6 +12,7 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![JUnit](https://img.shields.io/badge/Junit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dansoftowner&show_icons=true&count_private=true&show_icons=true&hide_title=false&include_all_commits=true&theme=onedark)
+
+<a href='https://ko-fi.com/K3K24JK0V' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
