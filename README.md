@@ -1,6 +1,3 @@
-
-### <img src="assets/wave.gif" width="30px">
-
 [![Kotlin](assets/Kotlin_Icon.png)](https://kotlinlang.org/)
 [![Java](assets/Java_Icon.png)](https://openjdk.java.net/)
 
